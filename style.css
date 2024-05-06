@@ -571,7 +571,7 @@ nav .fa{
     color: rgb(0, 0, 0);
 }
 
-@media (max-width: 1058px){
+@media (max-width: 450px){
     .text-box h1{
         font-size: 20px;
     }
